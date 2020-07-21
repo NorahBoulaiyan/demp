@@ -3,7 +3,7 @@ Project: Data Modeling with Postgres
 
 
 
-Sparkify is a start-up business that owns music streaming app. To improve thier performance they want to analyze the data that have been collecting on songs and 
+Sparkify is a start-up business that owns music streaming app. To improve their performance they want to analyze the data that they have been collecting on songs and 
 user activity to attain users preference in songs. Due to the uneasiness of the querying the data,it occupies in a directory of JSON logs on user activity on the
 Sparkify app, along with a directory with JSON metadata on the songs in Sparkify app.
 
